@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on applied econometric and data analysis projects in finance, trade, and ESG.<br><br>👯 I’m looking to collaborate on data analytics, research-driven projects, and finance or policy-focused use cases.<br><br>🤝 I’m looking for help with advanced time-series modeling, forecasting, and scalable Python workflows.<br><br>🌱 I’m currently learning applied econometrics in Python, financial modeling, and data storytelling.<br><br>💬 Ask me about: <br>Macroeconomic data, exchange rates, trade shocks, and analytics tools.<br><br>⚡ Fun fact: Led a 14-member team on a 6,252 m Himalayan expedition.<br>
+🔭 I’m currently working on applied econometric and data analysis projects in finance, trade, and sustainability.<br><br>👯 I’m looking to collaborate on data analytics, research-driven projects, and finance or policy-focused use cases.<br><br>🤝 I’m looking for help with advanced time-series modeling, forecasting, and scalable Python workflows.<br><br>🌱 I’m currently learning applied econometrics in Python, financial modeling, and data storytelling.<br><br>💬 Ask me about: <br>Python (Pandas, Statsmodels), EViews, Excel analytics, Tableau dashboards, and applied econometrics.<br><br>⚡ Fun fact: Led a 14-member team on a 6,252 m Himalayan expedition.<br>
 
 
 ## 🌐 Socials:
